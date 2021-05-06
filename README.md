@@ -6,4 +6,4 @@ Her ligger vedlegg vi linker til i prosjektrapport og testdokument
 - [Systemtest](https://github.com/bachelorgruppe32/Vedlegg/blob/main/Systemtest-Zisson-Wallboard.pdf)
 
 ## Prototyper:
-- [Alle prototyper](https://github.com/bachelorgruppe32/Vedlegg/) 
+- [Skisser og utkast til prototyper](https://github.com/bachelorgruppe32/Vedlegg/) 
